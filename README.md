@@ -1,8 +1,8 @@
 #Editor window missing bug.
 
-## 環境
+## 発生環境
 
-Unity 5.3.4P5~6  
+Unity 5.3.4P4 ~ 6  
 Mac OS X 10.11.4
 
 
@@ -26,4 +26,7 @@ UnityEditor.WindowLayout:LoadWindowLayout(String, Boolean)
 ## 以前と異なる挙動
 手順4で、コンパイルエラーにつられてエディタウィンドウが消えるのが変。
 
+## 問題が発生しないバージョン
+Unity 5.4b17
+Unity 5.3.4p3
 
